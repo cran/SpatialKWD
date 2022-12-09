@@ -1,4 +1,4 @@
-e24c38792ada1294aeec5afbcf5d4143 *DESCRIPTION
+7e072a3e586ea514d94856fa8fbf7219 *DESCRIPTION
 dad61ba324116f992c6b8b9e5023bfed *NAMESPACE
 c286dae83edd95c86775e196ec43943c *R/RcppExports.R
 4bd0c142d88158d395f5ae3580d58150 *R/zzz.R
@@ -12,9 +12,9 @@ d06ee16f7bcfd0174647578fcac4a8ac *man/Solver-class.rd
 bb862b5dfb6ffe32e956a3362c3f1636 *man/SpatialKWD-package.Rd
 a61f43add6dec162191c06b2da86a4da *man/figures/figL2.png
 23516006e0d39b2ba2e77144bf282fb9 *man/figures/figL3.png
-0ff460bab293b0cb4847dae1a2bc7507 *src/KWD_Histogram2D.h
-9c0fadaf2e912a68fab15226fa417f2e *src/KWD_NetSimplex.h
-4288687a737999746213425319f97a6f *src/KWD_NetSimplexCapacity.h
+86abf7c9fb1b9fa9e53d16f5c8ba082b *src/KWD_Histogram2D.h
+87e1c2a6f7231744519b585006638140 *src/KWD_NetSimplex.h
+37990083595a68ac1de3be45c9ae17a9 *src/KWD_NetSimplexCapacity.h
 fd68dfeaeb72736cda6bc856a68f0d10 *src/Makevars
 fd68dfeaeb72736cda6bc856a68f0d10 *src/Makevars.win
 152d561dc9872dd9e5281a9fa7ec05bd *src/RcppExports.cpp
